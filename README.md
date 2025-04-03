@@ -87,7 +87,7 @@
         </tbody>
         <tfoot>
             <tr>
-                <td colspan="5">Data de coleta das informações: 04 de abril de 2024</td>
+                <td colspan="5">Data de coleta das informações: 03 de abril de 2024</td>
             </tr>
         </tfoot>
     </table>
